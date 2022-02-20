@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-require('Main/index.js')
+require('./utils/index.js')
 // TODO: Create an array of questions for user input
 const questions = [];
 
