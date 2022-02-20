@@ -1,5 +1,8 @@
 // TODO: Include packages needed for this application
-require('./utils/index.js')
+require('inquirer')
+require('fs')
+require('./utils/generateMarkdown')
+
 // TODO: Create an array of questions for user input
 const questions = [];
 
