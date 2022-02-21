@@ -43,13 +43,13 @@ const questions = [
         type:'input',
         message:'Please explain any important information for the user:',
         name:'usage',
-        default:'none'
+        default:'There is no important information.'
     },
     {
-        type:'confirm',
-        message:'Is it possible for other users to contribute to this repository?(y/n)',
+        type:'list',
+        message:'Is it possible for other users to contribute to this repository?',
         name:'contribution',
-        default:'y'
+        choices: ['Users can contribute','Users can not contribute']
     },
     {
         type:'input',

@@ -1,5 +1,5 @@
 
-  # title title
+  # title
 
   |         Table of Content      |
   | ----------------------------- |
@@ -8,7 +8,7 @@
   | [Usage](#usage)               |
   | [License](#license)           |
   | [Contribution](#contribution) |
-  | [Tests](#tests)                |
+  | [Tests](#tests)               |
   | [Questions](#questions)       |
  
   ## Description 
@@ -16,11 +16,11 @@
   ## Installation 
   npm i
   ## Usage 
-  none
+  There is no important information.
   ## License 
-  MIT
+  GNU GPL 3.0
   ## Contribution 
-  true
+  Users can not contribute
   ## Tests 
   npm test
   ## Questions 
