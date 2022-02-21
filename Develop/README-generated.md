@@ -1,7 +1,7 @@
 
   # title
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  no license
 
   ## Description 
   blah blah blah 
@@ -20,9 +20,9 @@
   ## Usage 
   There is no important information.
   ## License 
-  The license is:MIT
+  The license is:no license
   ## Contribution 
-  Users can contribute
+  Users can not contribute
   ## Tests 
   npm test
   ## Questions 
