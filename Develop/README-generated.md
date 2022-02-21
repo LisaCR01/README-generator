@@ -1,9 +1,13 @@
 
   # title
 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Description 
+  blah blah blah 
+
   |         Table of Content      |
   | ----------------------------- |
-  | [Description](#description)   |
   | [Installation](#installation) |
   | [Usage](#usage)               |
   | [License](#license)           |
@@ -11,16 +15,14 @@
   | [Tests](#tests)               |
   | [Questions](#questions)       |
  
-  ## Description 
-  blah blah blah 
   ## Installation 
   npm i
   ## Usage 
   There is no important information.
   ## License 
-  GNU GPL 3.0
+  The license is:MIT
   ## Contribution 
-  Users can not contribute
+  Users can contribute
   ## Tests 
   npm test
   ## Questions 

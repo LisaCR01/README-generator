@@ -61,7 +61,7 @@ const questions = [
         type:'list',
         message:'Which license does your project require',
         name:'license',
-        choices: ['MIT','Apache 2.0','GNU GPL 3.0','BSD 3','BSL 1.0','CCZ 1.0' ]
+        choices: ['MIT','Apache 2.0','GNU GPL 3.0','BSD 3','BSL 1.0' ]
     }
 ];
 
