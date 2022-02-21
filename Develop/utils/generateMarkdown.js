@@ -15,9 +15,11 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
+  ## Description 
+  ${data.description} 
+
   |         Table of Content      |
   | ----------------------------- |
-  | [Description](#description)   |
   | [Installation](#installation) |
   | [Usage](#usage)               |
   | [License](#license)           |
@@ -25,8 +27,6 @@ function generateMarkdown(data) {
   | [Tests](#tests)               |
   | [Questions](#questions)       |
  
-  ## Description 
-  ${data.description} 
   ## Installation 
   ${data.installation}
   ## Usage 
