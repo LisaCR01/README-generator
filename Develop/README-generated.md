@@ -1,10 +1,10 @@
 
-  # title
+  # README Generator
 
-  no license
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  blah blah blah 
+  An application to create a high quality README through command line application. 
 
   |         Table of Content      |
   | ----------------------------- |
@@ -18,13 +18,13 @@
   ## Installation 
   npm i
   ## Usage 
-  There is no important information.
+  If the user does not chose an answer for the non multiple choice questions it will be default.
   ## License 
-  The license is:no license
+  The license is:MIT
   ## Contribution 
-  Users can not contribute
+  Users can contribute
   ## Tests 
-  npm test
+  Use npm test to run tests
   ## Questions 
-  * For any other questions about the application please contact me by emailing: lisagunn01@gmail.com
+  * For any other questions about the application please contact me by emailing: lcrgunn@gmail.com
   * To see other applications developed by me please visit my GitHub profile: [lisaCR01](https://github.com/lisaCR01/)

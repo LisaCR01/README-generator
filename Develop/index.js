@@ -25,13 +25,13 @@ const questions = [
         type:'input',
         message:'what is your email?',
         name:'email',
-        default:'lisagunn01@gmail.com'
+        default:'lcrgunn@gmail.com'
     },
     {
         type:'input',
         message:'Please describe your project:',
         name:'description',
-        default:'blah blah blah'
+        default:''
     },
     {
         type:'input',
@@ -61,7 +61,7 @@ const questions = [
         type:'list',
         message:'Which license does your project require',
         name:'license',
-        choices: ['MIT','Apache 2.0','GNU GPL 3.0','BSD 3','BSL 1.0','no license' ]
+        choices: ['MIT','Apache 2.0','GNU GPL v3','BSD 3-Clause','Boost Software 1.0','no license' ]
     }
 ];
 
@@ -78,7 +78,6 @@ function init() {
     inquirer.prompt(questions)
     .then((data) =>
     {
-        console.log(generateMarkdown(data));
         writeToFile('README-generated.md',data)
     }
     );
