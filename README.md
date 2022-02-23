@@ -28,5 +28,5 @@ In this project I created a command line application that dynamically generates 
 The default answer is the writing in brackets after the command line question. It can be selected by the user by just clicking enter.
 ![Default Answer](./Develop/Images/Default-Answer.jpg?raw=true)
 
-### Link Github Repository
+### Github Repository
 [Link to Github Repository](https://github.com/LisaCR01/README-generator.git)
