@@ -19,5 +19,8 @@ In this project I created a command line application that dynamically generates 
 
 ## Application 
 
+### Preview of generated README
 ![README Preview](./Develop/Images/Preview-README.jpg?raw=true)
+### Default Answer
+The default answer is the writing in brackets after the command line question. It can be selected by the user by just clicking enter.
 ![Default Answer](./Develop/Images/Default-Answer.jpg?raw=true)
