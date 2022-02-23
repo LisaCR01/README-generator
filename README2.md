@@ -1,6 +1,5 @@
 # README Generator
-
-In this project I created a command line application that dynamically generates a professional README file from a user's input. The motivation for this project is to allow creators to devote more time to working on the project than formatting their README file. I used the 'Professional README Guide' format to create the a polished appearance for the generated README. The main learning points for me of this projects is the use of package.json and its dependencies and using a .gitignore file to make sure pm dependencies aren't tracked or uploaded to GitHub. 
+In this project I created a command line application that dynamically generates a professional README file from a user's input called 'README-generated'. The motivation for this project is to allow creators to devote more time to working on the project than formatting their README file. I used the 'Professional README Guide' format to create the a polished appearance for the generated README. The main learning points for me of this projects is the use of package.json and its dependencies and using a .gitignore file to make sure pm dependencies aren't tracked or uploaded to GitHub. 
 
 ## Technologies Used
 * Inquirer package
@@ -10,7 +9,6 @@ In this project I created a command line application that dynamically generates 
 * JSON
 
 ## Criteria that I Met to Achieve this
-
 * When the user answers command line prompts a high-quality, professional README.md is generated.
 * When the user enters a project title this is displayed as their README title
 * When the user enters details for sections they are added to the corresponding sections of the README.
@@ -20,3 +18,6 @@ In this project I created a command line application that dynamically generates 
 * When the user click on the links in the Table of Contents they are taken to the corresponding section of the README. 
 
 ## Application 
+
+![README Preview](./Develop/Images/Preview-README.jpg?raw=true)
+![Default Answer](./Develop/Images/Default-Answer.jpg?raw=true)
