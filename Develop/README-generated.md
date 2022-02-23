@@ -4,7 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-   
+  blah blah blah 
 
   |         Table of Content      |
   | ----------------------------- |
@@ -26,5 +26,5 @@
   ## Tests 
   Use npm test to run tests
   ## Questions 
-  * For any other questions about the application please contact me by emailing: README Generator'/Users/lisagunn/coding_bootcamp/week9/README-generator/README2.md'
-  * To see other applications developed by me please visit my GitHub profile: ['/Users/lisagunn/coding_bootcamp/week9/README-generator/README2.md'](https://github.com/'/Users/lisagunn/coding_bootcamp/week9/README-generator/README2.md'/)
+  * For any other questions about the application please contact me by emailing: lcrgunn@gmail.com
+  * To see other applications developed by me please visit my GitHub profile: [lisaCR01](https://github.com/lisaCR01/)
