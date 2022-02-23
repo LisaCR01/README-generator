@@ -4,7 +4,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-  blah blah blah 
+  A command line application for a user to use create a high-quality README. 
 
   |         Table of Content      |
   | ----------------------------- |
