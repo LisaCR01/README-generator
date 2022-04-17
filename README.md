@@ -30,3 +30,8 @@ The default answer is the writing in brackets after the command line question. I
 
 ### Github Repository
 [Link to Github Repository](https://github.com/LisaCR01/README-generator.git)
+
+## Contact Information
+* [Email](mailto:lcrgunn@gmail.com)
+* [Github](https://github.com/LisaCR01)
+* [LinkedIn](https://www.linkedin.com/in/LisaCR01)
